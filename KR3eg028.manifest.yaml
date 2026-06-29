@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3eg028/v1
+canonical_location: https://kanripo.org/bkk/KR3eg028/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 伏邪新書
+  identifiers:
+    krp: KR3eg028
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg028.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg028_000.yaml, hash: 'sha256:dc28f78f6010dfbbdae96f8082a825ef650be3ff15db5f5f790ccf61904468fa'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg028_000.markers.yaml, hash: 'sha256:c17d135e42abac7d96a818677c13bb1abbfc7a9ea33018cee1305941bebcee46'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg028_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 422
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg028_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 12568
+  label: 伏邪新書
+  type: section
+  level: 1
+hash: sha256:b7a2ab9583732f9ecc8406a1312e95bcd940d14d78174d8e48fd156075e7046c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
