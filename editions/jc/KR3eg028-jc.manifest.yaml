@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg028_000-jc.yaml, hash: 'sha256:4a2053999071acfc5a546f13f0a8ecd559fbe0f0b5f33e751d28f3f425a7776f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg028_000-jc.markers.yaml, hash: 'sha256:c428ac3eb01b0cc394bd617433090b00babfeacf15fc2ca61f683921958f5d28'}
+  - {seq: 0, role: markers, filename: assets/KR3eg028_000-jc.markers.yaml, hash: 'sha256:87e1c96de81b2bb34a4cd6ab59fe0a8b577c56254469f58c49806c9379d47846'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 伏邪新書
   type: section
   level: 1
-hash: sha256:d5275b237f09820794d53a161b1c6c7cd257b6d2c54d77ff382dfe35374a081d
+hash: sha256:c584772b8c83e6d6094df7f4c245d4b0b286cea094f8e04389dae32fecb3b6be
